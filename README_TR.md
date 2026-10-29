@@ -6,7 +6,7 @@
 
 **Data Scientist · Data Analyst**
 
-<img src="assets/icon_python.svg" height="18" align="absmiddle" alt="">&nbsp;Python &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_sql.svg" height="18" align="absmiddle" alt="">&nbsp;SQL &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_powerbi.svg" height="18" align="absmiddle" alt="">&nbsp;Power BI &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_ml.svg" height="18" align="absmiddle" alt="">&nbsp;ML &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_dl.svg" height="18" align="absmiddle" alt="">&nbsp;DL
+<img src="assets/icon_python.svg" height="20" align="absmiddle" alt="">&nbsp;Python &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_sql.svg" height="20" align="absmiddle" alt="">&nbsp;SQL &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_powerbi.svg" height="20" align="absmiddle" alt="">&nbsp;Power BI &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_ml.svg" height="20" align="absmiddle" alt="">&nbsp;ML &nbsp;&nbsp;|&nbsp;&nbsp; <img src="assets/icon_dl.svg" height="20" align="absmiddle" alt="">&nbsp;DL
 
 Stuttgart, Almanya
 
