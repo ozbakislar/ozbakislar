@@ -37,10 +37,10 @@ Veri analizi, iş zekâsı ve veri bilimini bir araya getiriyorum. Çalışmalar
 
 | Proje | Açıklama | Teknoloji |
 |:--|:--|:--|
-| [**Araç Sigortası: Risk ve Hasar**](https://github.com/ozbakislar/schaden-power-bi) | Araç sigortası verilerinde risk ve hasar analizi | Power BI |
-| [**Uçuş Verileri**](https://github.com/ozbakislar/flug-power-bi) | Uçuş verileri ve operasyonel performans analizi | Power BI |
-| [**Kahve Satışları**](https://github.com/ozbakislar/kaffee-power-bi) | Kahve satış verilerinin analizi | Power BI |
 | [**Elektrikli Araçlar**](https://github.com/ozbakislar/elektrofahrzeuge-datenanalyse) | Elektrikli araç pazar verilerinin keşifsel analizi | Python · Jupyter |
 | [**IMDb**](https://github.com/ozbakislar/imdb-datenanalyse) | IMDb film veri setinin keşifsel analizi | Python · Jupyter |
 | [**Alman Şirketleri**](https://github.com/ozbakislar/deutsche-unternehmen-datenanalyse) | Önde gelen Alman şirketlerinin keşifsel analizi | Python · Jupyter |
+| [**Araç Sigortası: Risk ve Hasar**](https://github.com/ozbakislar/schaden-power-bi) | Araç sigortası verilerinde risk ve hasar analizi | Power BI |
+| [**Uçuş Verileri**](https://github.com/ozbakislar/flug-power-bi) | Uçuş verileri ve operasyonel performans analizi | Power BI |
+| [**Kahve Satışları**](https://github.com/ozbakislar/kaffee-power-bi) | Kahve satış verilerinin analizi | Power BI |
 

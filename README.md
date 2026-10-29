@@ -37,10 +37,10 @@ Ich verbinde Datenanalyse, Business Intelligence und Data Science. Ausgangspunkt
 
 | Projekt | Beschreibung | Technologie |
 |:--|:--|:--|
-| [**Kfz-Versicherung: Risiko und Schaden**](https://github.com/ozbakislar/schaden-power-bi) | Risiko- und Schadenanalyse von Kfz-Versicherungsdaten | Power BI |
-| [**Flugdaten**](https://github.com/ozbakislar/flug-power-bi) | Analyse von Flugdaten und operativer Performance | Power BI |
-| [**Kaffeeverkauf**](https://github.com/ozbakislar/kaffee-power-bi) | Analyse von Kaffeeverkaufsdaten | Power BI |
 | [**Elektrofahrzeuge**](https://github.com/ozbakislar/elektrofahrzeuge-datenanalyse) | Explorative Analyse von Elektrofahrzeug-Marktdaten | Python · Jupyter |
 | [**IMDb**](https://github.com/ozbakislar/imdb-datenanalyse) | Explorative Analyse des IMDb-Filmdatensatzes | Python · Jupyter |
 | [**Deutsche Unternehmen**](https://github.com/ozbakislar/deutsche-unternehmen-datenanalyse) | Explorative Analyse führender deutscher Unternehmen | Python · Jupyter |
+| [**Kfz-Versicherung: Risiko und Schaden**](https://github.com/ozbakislar/schaden-power-bi) | Risiko- und Schadenanalyse von Kfz-Versicherungsdaten | Power BI |
+| [**Flugdaten**](https://github.com/ozbakislar/flug-power-bi) | Analyse von Flugdaten und operativer Performance | Power BI |
+| [**Kaffeeverkauf**](https://github.com/ozbakislar/kaffee-power-bi) | Analyse von Kaffeeverkaufsdaten | Power BI |
 

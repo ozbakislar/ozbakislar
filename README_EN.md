@@ -37,10 +37,10 @@ I combine data analysis, business intelligence and data science. My work starts 
 
 | Project | Description | Technology |
 |:--|:--|:--|
-| [**Car Insurance: Risk and Claims**](https://github.com/ozbakislar/schaden-power-bi) | Risk and claims analysis of car insurance data | Power BI |
-| [**Flight Data**](https://github.com/ozbakislar/flug-power-bi) | Analysis of flight data and operational performance | Power BI |
-| [**Coffee Sales**](https://github.com/ozbakislar/kaffee-power-bi) | Analysis of coffee sales data | Power BI |
 | [**Electric Vehicles**](https://github.com/ozbakislar/elektrofahrzeuge-datenanalyse) | Exploratory analysis of electric vehicle market data | Python · Jupyter |
 | [**IMDb**](https://github.com/ozbakislar/imdb-datenanalyse) | Exploratory analysis of the IMDb movie dataset | Python · Jupyter |
 | [**German Companies**](https://github.com/ozbakislar/deutsche-unternehmen-datenanalyse) | Exploratory analysis of leading German companies | Python · Jupyter |
+| [**Car Insurance: Risk and Claims**](https://github.com/ozbakislar/schaden-power-bi) | Risk and claims analysis of car insurance data | Power BI |
+| [**Flight Data**](https://github.com/ozbakislar/flug-power-bi) | Analysis of flight data and operational performance | Power BI |
+| [**Coffee Sales**](https://github.com/ozbakislar/kaffee-power-bi) | Analysis of coffee sales data | Power BI |
 
