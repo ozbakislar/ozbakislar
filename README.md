@@ -22,14 +22,14 @@ Stuttgart, Deutschland
 
 ### <img src="assets/h_profil_de.svg" height="26" alt="Profil">
 
-Ich verbinde Datenanalyse, Business Intelligence und Data Science. Ausgangspunkt ist die saubere Aufbereitung und Analyse von Daten mit Python und SQL sowie deren Visualisierung in Power BI oder Tableau, damit Fachbereiche fundiert entscheiden können. Darauf aufbauend entwickle ich Machine-Learning- und Deep-Learning-Modelle, die Muster erkennen und Prognosen liefern, und stelle sie als Anwendung bereit.
+Ich verbinde Datenanalyse, Business Intelligence und Data Science. Ausgangspunkt ist die saubere Aufbereitung und Analyse von Daten mit Python und SQL sowie deren Visualisierung in Power BI oder Tableau, damit Fachbereiche fundiert entscheiden können. Darauf aufbauend entwickle ich Machine-Learning- und Deep-Learning-Modelle, die Muster erkennen und Prognosen liefern, und stelle sie als Anwendungen bereit.
 
 ### <img src="assets/h_schwerpunkte_de.svg" height="26" alt="Schwerpunkte">
 
 - **Datenanalyse** – Statistik, Python, SQL
 - **Business Intelligence** – Power BI, Tableau
 - **Machine Learning** – Supervised und Unsupervised Learning
-- **Deep Learning** – Computer Vision, NLP und LLM
+- **Deep Learning** – Computer Vision, NLP und LLMs
 
 ---
 

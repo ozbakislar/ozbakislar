@@ -22,7 +22,7 @@ Stuttgart, Almanya
 
 ### <img src="assets/h_profil_tr.svg" height="26" alt="Profil">
 
-Veri analizi, iş zekâsı ve veri bilimini bir araya getiriyorum. Başlangıç noktam, verilerin Python ve SQL ile temiz bir şekilde hazırlanıp analiz edilmesi ve iş birimlerinin sağlam kararlar alabilmesi için Power BI veya Tableau ile görselleştirilmesi. Bunun üzerine örüntüleri tanıyan ve tahmin üreten makine öğrenmesi ve derin öğrenme modelleri geliştiriyor, bunları uygulama olarak yayına alıyorum.
+Veri analizi, iş zekâsı ve veri bilimini bir araya getiriyorum. Çalışmalarımın başlangıç noktası, verilerin Python ve SQL ile özenle hazırlanıp analiz edilmesi ve iş birimlerinin sağlam kararlar alabilmesi için Power BI veya Tableau ile görselleştirilmesidir. Bu temelin üzerine örüntüleri tanıyan ve tahmin üreten makine öğrenmesi ve derin öğrenme modelleri geliştiriyor, bunları uygulama olarak yayına alıyorum.
 
 ### <img src="assets/h_schwerpunkte_tr.svg" height="26" alt="Uzmanlık Alanları">
 

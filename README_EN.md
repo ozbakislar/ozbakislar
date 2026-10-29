@@ -22,7 +22,7 @@ Stuttgart, Germany
 
 ### <img src="assets/h_profil_en.svg" height="26" alt="Profile">
 
-I combine data analysis, business intelligence and data science. My starting point is clean preparation and analysis of data with Python and SQL, and its visualisation in Power BI or Tableau, so that business teams can make well-founded decisions. Building on this, I develop machine learning and deep learning models that detect patterns and deliver forecasts, and I deploy them as applications.
+I combine data analysis, business intelligence and data science. My work starts with preparing and analysing data in Python and SQL and visualising it in Power BI or Tableau, so that business teams can make well-founded decisions. Building on this, I develop machine learning and deep learning models that detect patterns and deliver forecasts, and I deploy them as applications.
 
 ### <img src="assets/h_schwerpunkte_en.svg" height="26" alt="Focus Areas">
 
