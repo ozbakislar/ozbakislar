@@ -12,9 +12,9 @@ Stuttgart, Almanya
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ozbakislar-1A1A1A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-ozbakislar-1A1A1A?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-ozbakislar-1A1A1A?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/ozbakislar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
 
 </div>
 
@@ -22,7 +22,7 @@ Stuttgart, Almanya
 
 ### Profil
 
-Veri analizi, iş zekâsı ve veri bilimini bir araya getiriyorum. Başlangıç noktam, verilerin Python ve SQL ile temiz bir şekilde hazırlanıp analiz edilmesi ve iş birimlerinin sağlam kararlar alabilmesi için Power BI veya Tableau ile görselleştirilmesi. Bunun üzerine örüntüleri tanıyan ve tahmin üreten makine öğrenmesi ve derin öğrenme modelleri geliştiriyor, bunları uygulama olarak yayına alıyorum. Temelini istatistik, makine öğrenmesi ve derin öğrenme odaklı on aylık bir Data Science Programı oluşturuyor.
+Veri analizi, iş zekâsı ve veri bilimini bir araya getiriyorum. Başlangıç noktam, verilerin Python ve SQL ile temiz bir şekilde hazırlanıp analiz edilmesi ve iş birimlerinin sağlam kararlar alabilmesi için Power BI veya Tableau ile görselleştirilmesi. Bunun üzerine örüntüleri tanıyan ve tahmin üreten makine öğrenmesi ve derin öğrenme modelleri geliştiriyor, bunları uygulama olarak yayına alıyorum.
 
 ### Uzmanlık Alanları
 
